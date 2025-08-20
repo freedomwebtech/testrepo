@@ -1,7 +1,4 @@
-Skip to content
-Chat history
 
-You said:
 import cv2
 from ultralytics import YOLO
 import cvzone
